@@ -1,2 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5i0xgF2j)
-ILGIN
+# The Climate Cost of Food: Linking Emissions to Agricultural Sustainability 🌍
+In this project, we focus on the impacts of dietary preferences, carbon emissions, and climate change on future agricultural productivity by analyzing the relationships between these factors. First, we will evaluate how different food preferences contribute to CO2 emissions. For example, by seeking answers to questions such as whether meat consumption or a vegetable-heavy diet leads to more carbon emissions, we aim to reveal the environmental impacts of our individual preferences. Then, we will examine the extent to which CO2 emissions contribute to global warming and, consequently, climate change. Finally, by addressing the projected impacts of climate change on crop yields and agricultural systems, we aim to observe the large-scale environmental consequences of individual preferences.
+
+## Authors
+- **Ayşenur Bayburt** - 120203032  
+- **Ilgın Karlıdağ** - 120203072  
+- **Zeynep Dalmaz** - 119204058
+### GitHub Page
+The project is hosted using GitHub Pages https://aysenurbybrt.github.io/IE421_Project/

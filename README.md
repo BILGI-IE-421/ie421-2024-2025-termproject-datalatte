@@ -6,4 +6,5 @@ This project looks at how what people eat affects carbon emissions and how these
 - **Ilgın Karlıdağ** - 120203072  
 - **Zeynep Dalmaz** - 119204058
 ### GitHub Page
-The project is hosted using GitHub Pages https://aysenurbybrt.github.io/IE421_Project/
+The project is hosted using GitHub Pages https://aysenurbybrt.github.io/IE421-Project/
+Repository - https://github.com/aysenurbybrt/IE421-Project
